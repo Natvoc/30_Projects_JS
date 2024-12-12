@@ -12,3 +12,5 @@ Este es un proyecto que estoy ejecutando para practicar JS, en el cual le solici
 - Proyecto #6: To-Do List (Lista de tareas)
 - Proyecto #7: Conversor de divisas
 - Proyecto #8: Juego de Piedra, Papel o Tijera
+- Proyecto #9: Generador de contraseñas seguras
+- Proyecto #10: Quiz (Cuestionario dinámico)
