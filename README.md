@@ -4,7 +4,7 @@ Este es un proyecto que estoy ejecutando para practicar JS, en el cual le solici
 
 ## Lista de Proyectos
 
-- Proyecto #1: Hola, JavaScript (Introducción básica)
+- Proyecto #1: Contador interactivo
 - Proyecto #2: Calculadora básica
 - Proyecto #3: Temporizador / Reloj digital
 - Proyecto #4: Galería de imágenes interactiva
