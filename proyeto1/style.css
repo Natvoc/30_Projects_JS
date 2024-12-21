@@ -2,4 +2,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    background: #000000;
+}
+
+.container{
+    width: 20%;
+    height: 90vh;
+    background: linear-gradient(180deg, rgb(131, 193, 109) 0%, rgb(144, 173, 133) 100%);
+    border-radius: 10px;
 }
