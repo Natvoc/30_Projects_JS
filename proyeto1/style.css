@@ -17,14 +17,14 @@ body{
     text-align: right;
     color: #CDEFC0;
     font-size: 1.5em;
-    margin: 3em 1em 0em 0em;
+    margin: 2em 1em 0em 0em;
 }
 .counter-container{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 2em;
+    margin-top: 2.5em;
 }
 #counter{
     font-size: 4em;
@@ -45,7 +45,7 @@ hr{
 button{
     width: 3em;
     height: 1em;
-    margin-top: 1.2em;
+    margin-top: 1em;
     background: rgba(217, 217, 217, 0.24);
     border: 0px solid;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
@@ -55,6 +55,8 @@ button{
     align-items: center;
     justify-content: center;
 }
+
+/*Media Query Desktop*/
 
 @media screen and (min-width: 768px){
     .container{
