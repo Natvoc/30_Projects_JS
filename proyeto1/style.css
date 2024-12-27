@@ -29,3 +29,25 @@ body{
 #counter{
     font-size: 4em;
 }
+hr{
+    width: 40%;
+    border: 1px solid #433B3B;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 2em;
+
+}
+button{
+    width: 6em;
+    height: 2em;
+    margin-top: 1.5em;
+    background: rgba(217, 217, 217, 0.24);
+    border: 0px solid;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+    color: #000000;
+}
