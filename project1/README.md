@@ -30,3 +30,5 @@ Agregar un efecto visual al cambiar el número.
 Contador avanzado:
 
 Permitir que el usuario establezca un incremento personalizado.
+
+<img src="img/diseño.png" alt="Contador" width="300" />
