@@ -21,8 +21,8 @@ Cada uno de los 30 proyectos está diseñado para ser un ejercicio práctico enf
 
 ## 🚀 Lista de Proyectos
 
-1. Contador
-2. Calculadora Básica
+1. [Contador] (https://github.com/Natvoc/30_Projects_JS/tree/main/project1)
+2. [Calculadora Básica] (https://github.com/Natvoc/30_Projects_JS/tree/main/project2)
 3. Conversor de Monedas
 4. To-Do List
 5. Juego de Piedra, Papel o Tijera
