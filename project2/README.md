@@ -23,5 +23,4 @@ El diseño tiene una disposición clásica con:
 - Botones grandes para facilitar la interacción.  
 
 
-
-
+<img src="img/diseño.png" alt="Calculadora" width="300" />
