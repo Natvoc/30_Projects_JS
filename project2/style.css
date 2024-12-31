@@ -11,8 +11,8 @@ body{
     height: 100vh;
 }
 .container{
-    width: 20%;
-    height: 90vh;
+    width: 80%;
+    height: 70vh;
     background: #ffff;
     display: flex;
     align-items: center;
@@ -71,4 +71,11 @@ flex-direction: column;
 .btn-op{
     background: #000000;
     color: #ffffff;
+}
+
+@media screen and (min-width: 768px) {
+    .container{
+        width: 20%;
+        height: 90vh;
+    }
 }
